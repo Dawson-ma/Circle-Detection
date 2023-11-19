@@ -2,7 +2,7 @@
 
 Utilizing a CNN model to identify the location of the circle center and radius
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dawosn-ma/Circle-Detection/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dawson-ma/Circle-Detection/)
 
 ## Quick Overview
 
@@ -26,7 +26,7 @@ Utilizing a CNN model to identify the location of the circle center and radius
 
 ## Getting Started
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dawosn-ma/Circle-Detection/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dawson-ma/Circle-Detection/)
 
 ### Training
 
