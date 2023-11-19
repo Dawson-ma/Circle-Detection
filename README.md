@@ -30,11 +30,11 @@ Utilizing a CNN model to identify the location of the circle center and radius
 
 ### Training
 
-For training purposes, please use `CircleDetection-train.ipynb`.
+For training purposes, please use `CircleDetection_train.ipynb`.
 
 ### Test
 
-For testing purposes, please use `CircleDetection-test.ipynb`.
+For testing purposes, please use `CircleDetection_test.ipynb`.
 
 ### After Opening Colab
 
