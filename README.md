@@ -10,7 +10,7 @@ Utilizing a CNN model to identify the location of the circle center and radius
 
 - **ResNet18**  
   ![ResNet18 Architecture](./Images/ResNet18_Architecture.png)  
-  ([Source](https://doi.org/10.1007/s10916-019-1475-2))
+  [Source](https://doi.org/10.1007/s10916-019-1475-2)
 
 - **Self-defined CNN**  
   ![CNN Architecture](./Images/CNN_Architecture.png)
